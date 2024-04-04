@@ -1,8 +1,7 @@
-# React + Vite
+# Zustand Across Windows
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple example of Zustand + local storage usage across multiple windows.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Based on:
+- https://github.com/pmndrs/zustand/discussions/1614
+- https://docs.pmnd.rs/zustand/integrations/persisting-store-data
